@@ -1,0 +1,10 @@
+.top-music{
+    width: 40%;
+    margin: 0 auto;
+}
+
+@media (max-width:768px){
+    .top-music{
+        width: 80%;
+    }
+}
